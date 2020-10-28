@@ -13,16 +13,13 @@ public class St_Login {
 
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		
 		System.out.println("Welcome to Sharon School System");
 		ArrayList<String> names = new ArrayList<String>( Arrays.asList("Aariz","Leo","Messon","Taniya","Emily") );
 		 
 		System.out.println(names);
-	//	ArrayList<String> name = Arrays.asList("Aariz","Leo","Messon","Taniya","Emily");
 
-		//ArrayList<Integer> id = new ArrayList<Integer>();
 		ArrayList<Integer> id = new ArrayList<Integer>(Arrays.asList(101,102,103,104,105));
 		System.out.println(id);
 
